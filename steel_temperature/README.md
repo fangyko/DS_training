@@ -1,11 +1,11 @@
-# Прогноз температуры стали во время плавки
+# Predict of steel temperature
 
-### Задача
-Прогноз температуры стали во время ее плавки.
+### Task
+The predict of the temperature of steel during its melting.
 
-### Инструменты и навыки
-Python, Pandas, Matplotlib, Scikit-learn, исследовательский анализ данных, классификация
+### Tools and skills
+Python, Pandas, Matplotlib, Scikit-learn, research data analysis, classification
 
-### Вывод
-Лучший результат был получен на LGBMRegressor - 5.88 MAE, 0.88 R2.
-Модель адекватна, влиятельные признаки: Суммарное время нагрева партии, Время между первым и последним измерением температуры, начальная температура.
+### Output
+The best result was obtained on LGBMRegressor - 5.88 MAE, 0.88 R2.
+The model is adequate, influential features: The total heating time of the batch, the time between the first and last temperature measurement, the initial temperature.

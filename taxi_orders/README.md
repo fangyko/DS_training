@@ -1,10 +1,10 @@
-# Прогнозирование количества заказов такси на следующий час
+# Forecasting the number of taxi orders for the next hour
 
-### Задача
-Разработка системы предсказания объема заказа.
+### Task
+Development of an order volume prediction system.
 
-### Инструменты и навыки
+### Tools and skills
 Python, Pandas, Scikit-learn, statsmodels,
 
-### Вывод
-Модели CatBoost и линейная регрессия показывают лучшее качество предсказаний. Модели адекватны.
+### Output
+CatBoost and Linear Regression models show better prediction quality. The models are adequate.

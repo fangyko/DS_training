@@ -1,11 +1,11 @@
-# Исследование технологического процесса очистки золота
+# Investigation of the technological process of gold purification
 
-### Задача
-Спрогнозировать концентрацию золота при проведении процесса его очистки.
+### Task
+Predict the concentration of gold during the process of its purification.
 
-### Инструменты и навыки
-Python, Pandas, Matplotlib, NumPy, Scikit-learn, исследовательский анализ данных
+### Tools and skills
+Python, Pandas, Matplotlib, NumPy, Scikit-learn, exploratory data analysis
 
-### Вывод
-Были обучены модели линейной регрессии, дерева решений и случайного леса на обучающей выборке и оценены их качества кросс-валидацие по sMAPE метрике. Была выбрана лучшая модель и проверена на тестовой выборке.
+### Output
+Linear regression, decision tree, and random forest models were trained on a training sample and their cross-validation qualities were evaluated using sMAPE metrics. The best model was selected and tested on a test sample.
 

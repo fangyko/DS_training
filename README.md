@@ -11,4 +11,4 @@ These projects were completed during training at Yandex.Practicum, profession "D
 | [Forecasting the number of taxi orders for the next hour](taxi_orders) | A model has been built to predict the number of taxi orders for the next hour. | *Pandas, Scikit-learn, statsmodels* |
 | [Study of patterns that determine the success of games](computer_games) | A model is built that determines the success of the game based on historical data on sales of computer games, user and expert ratings, genres and platforms. | *NumPy, Pandas, Matplotlib* |
 | [Age prediction by photo](computer_vision) | A model has been built that determines the approximate age of a person from a photo. | *Pandas, Keras* |
-| [Forecast of steel temperature during its melting](steel_temperature) | A model has been constructed that predicts the temperature of steel. | *Pandas, Matplotlib, Scikit-learn* |
+| [Predict of steel temperature](steel_temperature) | A model has been constructed that predicts the temperature of steel. | *Pandas, Matplotlib, Scikit-learn* |

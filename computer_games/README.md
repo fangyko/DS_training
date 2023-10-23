@@ -1,10 +1,10 @@
-# Изучение закономерностей, определяющих успешность игр
+# Study of patterns that determine the success of games
 
-### Задача
-Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры 
+### Task
+Using historical data on sales of computer games, user and expert ratings, genres and platforms, to identify patterns that determine the success of the game 
 
-### Инструменты и навыки
-Python, предобработка данных, NumPy, Pandas, Matplotlib, исследовательский анализ данных, проверка статистических гипотез, описательная статистика, визуализация данных
+### Tools and skills
+Python, data preprocessing, NumPy, Pandas, Matplotlib, exploratory data analysis, statistical hypothesis testing, descriptive statistics, data visualization
 
-### Вывод
-В данном исследовании были преобразованы, обработаны и преобразованы данные, выявлены значимые зависимости
+### Output
+In this study, the data were transformed, processed and transformed, significant dependencies were identified

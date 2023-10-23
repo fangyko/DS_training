@@ -1,10 +1,10 @@
-# Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
+# Apartments for sale in St. Petersburg - real estate market analysis
 
-### Задача
-Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир.
- 
-### Инструменты и навыки
-Matplotlib, Pandas, Python, визуализация данных, исследовательский анализ данных, предобработка данных
+### Task
+Using the data of the Yandex Real Estate service, determine the market value of real estate objects and typical parameters of apartments.
 
-### Вывод
-Была проведена предобработка данных - архива объявлений с 2014 по 2019 год о продаже квартир в Санкт-Петербурге и соседних населенных пунктах. Также данные были изучены - определены особенности и зависимости.
+### Tools and skills
+Matplotlib, Pandas, Python, data visualization, exploratory data analysis, data preprocessing
+
+### Output
+A preprocessing of the data archive of ads from 2014 to 2019 on the sale of apartments in St. Petersburg and neighboring settlements was carried out. Also, the data were studied - features and dependencies were determined.

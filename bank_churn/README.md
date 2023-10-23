@@ -1,10 +1,10 @@
-# Прогнозирование оттока клиента Банка
+# Predicting the outflow of Bank customers
 
-### Задача
-На основе данных из банка определить клиент, который может уйти
+### Task
+Based on the data from the bank to determine the client who can leave
 
-### Инструменты и навыки
+### Tools and skills
 Pandas, Matplotlib, Scikit-learn.
 
-### Вывод
-Разработанная модель верно детектирует 83% клиентов по тестовой выборке.
+### Output
+The developed model correctly detects 83% of customers according to the test sample.
