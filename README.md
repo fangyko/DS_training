@@ -1,14 +1,14 @@
-# Учебные проекты Data Science
+# Data Science Training Projects
 
-Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".
+These projects were completed during training at Yandex.Practicum, profession "Data Science Specialist".
 
-| Название проекта | Описание | Используемые библиотеки | 
+| Project name | Description | Libraries used |
 | :---------------------- | :---------------------- | :---------------------- |
-| [Анализ рынка недвижимости](real_estate_market_analysis) | На основе данных сервиса Яндекс.Недвижимость определена рыночная стоимость объектов недвижимости разного типа.| *Pandas, Matplotlib* |
-| [Исследование технологического процесса очистки золота](gold_recovery) | Построена модель машинного обучения для промышленной компании, разрабатывающая решения для эффективной работы промышленных предприятий.| *Pandas, Matplotlib, NumPy, Scikit-learn* |
-| [Прогнозирование оттока клиентов Банка](bank_customer_outflow) | Предсказывается уйдёт клиент из банка в ближайшее время или нет (на основе исторических данных о поведении клиентов и расторжении договоров с банком). | *Matplotlib, Scikit-learn* |
-| [Обучение модели классификации комментариев](text_analysis) | Разработан иструмент определения токсичных комментариев. | *Pandas, nltk* |
-| [Прогнозирование количества заказов такси на следующий час](taxi_orders) | Построена модель прогнозирования количества заказов такси на следующий час. | *Pandas, Scikit-learn, statsmodels* |
-| [Изучение закономерностей, определяющих успешность игр](computer_games) | Построена модель определяющая успешность игры на основе исторических данных о продажах компьютерных игр, оценок пользователей и экспертов, жанров и платформ. | *NumPy, Pandas, Matplotlib* |
-| [Предсказывание возраста по фотографии](computer_vision) | Построена модель, которая по фотографии определяет приблизительный возраст человека. | *Pandas, Keras* |
-| [Прогноз температуры стали во время ее плавки](steel_temperature) | Построена модель, которая предсказывает температуру стали. | *andas, Matplotlib, Scikit-learn* |
+| [Real Estate market Analysis](real_estate_market_analysis) | Based on Yandex service data.Real estate the market value of real estate objects of different types is determined.| *Pandas, Matplotlib* |
+| [Investigation of the technological process of gold purification] (gold_recovery) | A machine learning model has been built for an industrial company that develops solutions for the efficient operation of industrial enterprises.| *Pandas, Matplotlib, NumPy, Scikit-learn* |
+| [Forecasting the outflow of Bank customers](bank_customer_outflow) | It is predicted whether the customer will leave the bank in the near future or not (based on historical data on customer behavior and termination of contracts with the bank). | *Matplotlib, Scikit-learn* |
+| [Comment classification model training](text_analysis) | A tool for determining toxic comments has been developed. | *Pandas, nltk* |
+| [Forecasting the number of taxi orders for the next hour](taxi_orders) | A model has been built to predict the number of taxi orders for the next hour. | *Pandas, Scikit-learn, statsmodels* |
+| [Study of patterns that determine the success of games](computer_games) | A model is built that determines the success of the game based on historical data on sales of computer games, user and expert ratings, genres and platforms. | *NumPy, Pandas, Matplotlib* |
+| [Age prediction by photo](computer_vision) | A model has been built that determines the approximate age of a person from a photo. | *Pandas, Keras* |
+| [Forecast of steel temperature during its melting](steel_temperature) | A model has been constructed that predicts the temperature of steel. | *andas, Matplotlib, Scikit-learn* |
